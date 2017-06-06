@@ -20,4 +20,12 @@ public class PrintData {
 		
 	}
 	
+	
+	//created a method to just push changes on github
+	public void testCase(){
+		
+		System.out.println("Hey user");
+		
+	}
+	
 }
